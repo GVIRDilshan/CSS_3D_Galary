@@ -4,23 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c05d11-a0bf-4a27-a030-3cd6cf610f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Css_galary-Desing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/example_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example_01/img/8.jpg" afterDir="false" />
+    <list default="true" id="43c05d11-a0bf-4a27-a030-3cd6cf610f82" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_01/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/example_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/img/depositphotos_232751862-stock-photo-dark-blue-shabby-wooden-background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/js/jquery.hislide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/js/jquery.hislide.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example_02/js/jquery.hislide.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css_galary-Desing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Css_galary-Desing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example_01/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/example_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example_01/example_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/img/3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example_01/img/6.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,6 +60,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "G:/2nd sem/CSS/3D_Galary_CSS",
@@ -66,6 +72,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\2nd sem\CSS\3D_Galary_CSS\src\Example_01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,8 +87,19 @@
       <updated>1694268331787</updated>
       <workItem from="1694268332795" duration="2178000" />
       <workItem from="1694324112540" duration="225000" />
-      <workItem from="1694358169805" duration="510000" />
+      <workItem from="1694358169805" duration="1279000" />
+      <workItem from="1694364218977" duration="593000" />
+      <workItem from="1694403351889" duration="6677000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1694358857652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694358857652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

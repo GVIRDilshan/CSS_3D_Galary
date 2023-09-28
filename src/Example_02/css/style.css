@@ -1,5 +1,5 @@
 body {
-    background-image: url("Example_02/img/colorful-skull-dark-art-4k-1e-1920x1080.jpg");
+    background-color: #666666;
     background-size: cover;
 }
 .hi-slide {
@@ -9,8 +9,8 @@ body {
     border-radius: 50px;
     margin: 115px auto 0;
 }
-.hi-slide.hi-next,
-    .hi-slide.hi-prev {
+.hi-next,
+    .hi-prev {
     position: absolute;
     top: 50%;
     width: 40px;
@@ -20,22 +20,22 @@ body {
     line-height: 40px;
     text-align: center;
     cursor: pointer;
-    background-color: white;
-    color: black;
+    background-color: red;
+    color: white;
     transition: all 0.7s;
     font-size: 20px;
     font-weight: bold;
 
 }
 
-.hi-slide .hi-next:hover,
-.hi-slide .hi-prev:hover {
+.hi-next:hover,
+ .hi-prev:hover {
     opacity: 1;
-    background-color: white;
+    background-color: cyan;
 }
 
 .hi-slide .hi-prev {
-    left: 59px;
+    left: -69px;
 }
 
 .hi-slide .hi-prev::before {
@@ -43,7 +43,7 @@ body {
 }
 
 .hi-slide .hi-next {
-    right: -59px;
+    right: -69px;
 }
 
 .hi-slide .hi-next::before {
@@ -53,8 +53,8 @@ body {
 .hi-slide>ul {
     list-style: none;
     position: relative;
-    width: 754px;
-    height: 292px;
+    width: 1000px;
+    height: 1000px;
     margin: 0;
     padding: 0;
 }
